@@ -4,17 +4,11 @@
  * and open the template in the editor.
  */
 package ec.edu.ups.VentanaTelefono;
-import ec.edu.ups.Vista.VentanaTelefono;
-
 
 /**
  *
  * @author JHON FAREZ
  */
-public class Test {
-    public static void main(String[] args) {
-        //inicializacion del la ventana principal
-         VentanaTelefono principal = new VentanaTelefono("TELEFONOS");
-    }
+public class TestAUX {
     
 }
